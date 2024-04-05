@@ -18,3 +18,19 @@ Here are some ideas to get you started:
 - JAVA와 PYTHON을 주로 다루고 있습니다.
 - 어느곳이던 꼭 필요로 하는 사람이 되고 싶습니다.
 - 간결하고 쉬운 코드에 관심이 있습니다.
+
+
+# Contact & Channel  
+- Email  | tlqdhfjrps@naver.com
+- Github | https://github.com/junhyeok2921/
+
+# Skill.
+
+※ Back-End
+  - JAVA
+  - PYTHON
+  - VISUAL STUDIO CODE
+※ DevOps
+  - OracleSQL
+※ Front-End
+  - HTML/CSS
