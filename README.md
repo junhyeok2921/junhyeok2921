@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ※ DevOps
 
   - OracleSQL
-    
+ 
 ※ Front-End
 
   - HTML/CSS
