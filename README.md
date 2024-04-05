@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   - JAVA
   - PYTHON
   - VISUAL STUDIO CODE
+
 ※ DevOps
 
   - OracleSQL
