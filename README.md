@@ -27,11 +27,14 @@ Here are some ideas to get you started:
 # Skill.
 
 ※ Back-End
+
   - JAVA
   - PYTHON
   - VISUAL STUDIO CODE
-    <br>
 ※ DevOps
-  - OracleSQL<br>
+
+  - OracleSQL
+    
 ※ Front-End
+
   - HTML/CSS
