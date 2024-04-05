@@ -30,7 +30,8 @@ Here are some ideas to get you started:
   - JAVA
   - PYTHON
   - VISUAL STUDIO CODE
+    <br>
 ※ DevOps
-  - OracleSQL
+  - OracleSQL<br>
 ※ Front-End
   - HTML/CSS
