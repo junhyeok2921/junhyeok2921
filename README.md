@@ -49,7 +49,8 @@ Here are some ideas to get you started:
    - DB에 저장된 향수를 페이지에 출력 및 검색 기능 구현
    - 별점과 가벼운 의견을 남길 수 있는 리뷰 게시판 구현 (추후 제품별 리뷰로 개선 필요)
 <img src = https://github.com/junhyeok2921/junhyeok2921/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-04-05%20165042.png>
-<br>
+
+
 ## 2024. 02 미니 프로젝트 게임 (팀원 총 5명)
 ※ 고든램지의 재료맞추기 스피드런
  - 로그인 기능 구현
