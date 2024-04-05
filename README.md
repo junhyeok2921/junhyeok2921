@@ -50,8 +50,17 @@ Here are some ideas to get you started:
    - 별점과 가벼운 의견을 남길 수 있는 리뷰 게시판 구현 (추후 제품별 리뷰로 개선 필요)
 <img src = https://github.com/junhyeok2921/junhyeok2921/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-04-05%20165042.png>
 
+※ 트러블 슈팅
+
+<img src = https://github.com/junhyeok2921/junhyeok2921/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-04-05%20165907.png>
+
+취향 체크 결과를 보내는 Java 톰캣 서버와 그걸 받아서 데이터를 처리해야하는 Python Flask 서버의 연결이 도통 감이 안왔는데
+선생님에게 도움을 구해보니 그냥 서로의 주소를 GET방식으로 넘기고 받아서 해결하라는 말에 의외로 쉽게 해결되버렸다.
+
 
 ## 2024. 02 미니 프로젝트 게임 (팀원 총 5명)
 ※ 고든램지의 재료맞추기 스피드런
+<img src = https://github.com/junhyeok2921/junhyeok2921/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-04-05%20170456.png>
+
  - 로그인 기능 구현
  
