@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 
 # Contact & Channel  
-- Email  tlqdhfjrps@naver.com
-- Github https://github.com/junhyeok2921/
+- Email | tlqdhfjrps@naver.com
+- Github| https://github.com/junhyeok2921/
 
 # Skill.
 
