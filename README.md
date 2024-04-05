@@ -1,4 +1,4 @@
-### 오랫동안 롱런하고 싶은 개발자 김준혁입니다 .
+## 오랫동안 롱런하고 싶은 개발자 김준혁입니다 .
 
 <!--
 **junhyeok2921/junhyeok2921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,16 +26,16 @@ Here are some ideas to get you started:
 
 # Skill.
 
-※ Back-End
+### Back-End
 
   - JAVA
   - PYTHON
   - VISUAL STUDIO CODE
 
-※ DevOps
+### DevOps
 
   - OracleSQL
 
-※ Front-End
+### Front-End
 
   - HTML/CSS
